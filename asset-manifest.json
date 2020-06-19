@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/record-button/static/css/main.570ede26.chunk.css",
-    "main.js": "/record-button/static/js/main.49e5a611.chunk.js",
-    "main.js.map": "/record-button/static/js/main.49e5a611.chunk.js.map",
+    "main.css": "/record-button/static/css/main.d1928ab2.chunk.css",
+    "main.js": "/record-button/static/js/main.7d51cbfd.chunk.js",
+    "main.js.map": "/record-button/static/js/main.7d51cbfd.chunk.js.map",
     "runtime-main.js": "/record-button/static/js/runtime-main.2cd0606b.js",
     "runtime-main.js.map": "/record-button/static/js/runtime-main.2cd0606b.js.map",
     "static/js/2.4274fbf1.chunk.js": "/record-button/static/js/2.4274fbf1.chunk.js",
     "static/js/2.4274fbf1.chunk.js.map": "/record-button/static/js/2.4274fbf1.chunk.js.map",
     "index.html": "/record-button/index.html",
-    "precache-manifest.d4b2e43e8b21c087d56727c0f66b6a4b.js": "/record-button/precache-manifest.d4b2e43e8b21c087d56727c0f66b6a4b.js",
+    "precache-manifest.466aed9f3dc7429a25cd9f88e53ed151.js": "/record-button/precache-manifest.466aed9f3dc7429a25cd9f88e53ed151.js",
     "service-worker.js": "/record-button/service-worker.js",
-    "static/css/main.570ede26.chunk.css.map": "/record-button/static/css/main.570ede26.chunk.css.map",
+    "static/css/main.d1928ab2.chunk.css.map": "/record-button/static/css/main.d1928ab2.chunk.css.map",
     "static/js/2.4274fbf1.chunk.js.LICENSE.txt": "/record-button/static/js/2.4274fbf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2cd0606b.js",
     "static/js/2.4274fbf1.chunk.js",
-    "static/css/main.570ede26.chunk.css",
-    "static/js/main.49e5a611.chunk.js"
+    "static/css/main.d1928ab2.chunk.css",
+    "static/js/main.7d51cbfd.chunk.js"
   ]
 }
