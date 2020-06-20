@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3e455159b6329e991cf6d513da5f344",
+    "revision": "af227975a649d0c39bb26540009fb93b",
     "url": "/record-button/index.html"
   },
   {
-    "revision": "f8f47b9ed09e46db5eb0",
-    "url": "/record-button/static/css/main.e5a3ed1b.chunk.css"
+    "revision": "e7854a8e29ff4821de59",
+    "url": "/record-button/static/css/main.44b24ecb.chunk.css"
   },
   {
     "revision": "f985b852b1a01aed24e2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/record-button/static/js/2.00940a4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8f47b9ed09e46db5eb0",
+    "revision": "e7854a8e29ff4821de59",
     "url": "/record-button/static/js/main.db5997dd.chunk.js"
   },
   {
