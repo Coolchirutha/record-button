@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/record-button/static/css/main.3fb6cd23.chunk.css",
-    "main.js": "/record-button/static/js/main.1be096da.chunk.js",
-    "main.js.map": "/record-button/static/js/main.1be096da.chunk.js.map",
+    "main.css": "/record-button/static/css/main.2c942637.chunk.css",
+    "main.js": "/record-button/static/js/main.39573314.chunk.js",
+    "main.js.map": "/record-button/static/js/main.39573314.chunk.js.map",
     "runtime-main.js": "/record-button/static/js/runtime-main.2cd0606b.js",
     "runtime-main.js.map": "/record-button/static/js/runtime-main.2cd0606b.js.map",
     "static/js/2.4274fbf1.chunk.js": "/record-button/static/js/2.4274fbf1.chunk.js",
     "static/js/2.4274fbf1.chunk.js.map": "/record-button/static/js/2.4274fbf1.chunk.js.map",
     "index.html": "/record-button/index.html",
-    "precache-manifest.c4fed49543cea57570d48804e0ff9f77.js": "/record-button/precache-manifest.c4fed49543cea57570d48804e0ff9f77.js",
+    "precache-manifest.7336cbd951f9db6ecd18355cfdc601ca.js": "/record-button/precache-manifest.7336cbd951f9db6ecd18355cfdc601ca.js",
     "service-worker.js": "/record-button/service-worker.js",
-    "static/css/main.3fb6cd23.chunk.css.map": "/record-button/static/css/main.3fb6cd23.chunk.css.map",
+    "static/css/main.2c942637.chunk.css.map": "/record-button/static/css/main.2c942637.chunk.css.map",
     "static/js/2.4274fbf1.chunk.js.LICENSE.txt": "/record-button/static/js/2.4274fbf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2cd0606b.js",
     "static/js/2.4274fbf1.chunk.js",
-    "static/css/main.3fb6cd23.chunk.css",
-    "static/js/main.1be096da.chunk.js"
+    "static/css/main.2c942637.chunk.css",
+    "static/js/main.39573314.chunk.js"
   ]
 }
