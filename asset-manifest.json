@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/record-button/static/css/main.807c8abd.chunk.css",
+    "main.css": "/record-button/static/css/main.09cd83ad.chunk.css",
     "main.js": "/record-button/static/js/main.213637dc.chunk.js",
     "main.js.map": "/record-button/static/js/main.213637dc.chunk.js.map",
     "runtime-main.js": "/record-button/static/js/runtime-main.2cd0606b.js",
@@ -8,15 +8,15 @@
     "static/js/2.4274fbf1.chunk.js": "/record-button/static/js/2.4274fbf1.chunk.js",
     "static/js/2.4274fbf1.chunk.js.map": "/record-button/static/js/2.4274fbf1.chunk.js.map",
     "index.html": "/record-button/index.html",
-    "precache-manifest.dda13e6a94df3a0adcc5d62701f10e5a.js": "/record-button/precache-manifest.dda13e6a94df3a0adcc5d62701f10e5a.js",
+    "precache-manifest.b730b34e68c91a4f8bcb0e1d3e966750.js": "/record-button/precache-manifest.b730b34e68c91a4f8bcb0e1d3e966750.js",
     "service-worker.js": "/record-button/service-worker.js",
-    "static/css/main.807c8abd.chunk.css.map": "/record-button/static/css/main.807c8abd.chunk.css.map",
+    "static/css/main.09cd83ad.chunk.css.map": "/record-button/static/css/main.09cd83ad.chunk.css.map",
     "static/js/2.4274fbf1.chunk.js.LICENSE.txt": "/record-button/static/js/2.4274fbf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2cd0606b.js",
     "static/js/2.4274fbf1.chunk.js",
-    "static/css/main.807c8abd.chunk.css",
+    "static/css/main.09cd83ad.chunk.css",
     "static/js/main.213637dc.chunk.js"
   ]
 }
